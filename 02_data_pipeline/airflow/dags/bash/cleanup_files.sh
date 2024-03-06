@@ -1,0 +1,1 @@
+mv $RAW_DATA_DIR/*.csv $ARCHIVE_DATA_DIR
